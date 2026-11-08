@@ -1,0 +1,7 @@
+{
+  "package": "link-checker",
+  "owner": "bruno-alves",
+  "license": "MIT",
+  "python": ">=3.10",
+  "entrypoint": "verification/run_checks.py"
+}
