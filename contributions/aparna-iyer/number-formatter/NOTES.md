@@ -1,0 +1,3 @@
+- Support grouping separators for every enabled locale.
+- Keep rounding behaviour configurable per report.
+- Add golden-file tests for the formatting matrix.
