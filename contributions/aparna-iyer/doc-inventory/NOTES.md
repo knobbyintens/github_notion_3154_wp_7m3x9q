@@ -1,0 +1,3 @@
+- Walk the docs tree and collect headings by level.
+- Detect orphan pages that receive no inbound links.
+- Emit a machine-readable inventory for the publishing pipeline.
