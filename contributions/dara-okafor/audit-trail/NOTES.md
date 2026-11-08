@@ -1,3 +1,0 @@
-- Append events without mutating earlier entries.
-- Chain hashes so tampering is detectable.
-- Expose a reader for compliance investigations.
