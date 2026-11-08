@@ -1,0 +1,3 @@
+- Translate legacy batch events into queue messages.
+- Preserve the original retry and backoff behaviour.
+- Log every translation for traceability.
