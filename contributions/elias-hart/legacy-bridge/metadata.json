@@ -1,0 +1,7 @@
+{
+  "package": "legacy-bridge",
+  "owner": "elias-hart",
+  "license": "MIT",
+  "python": ">=3.10",
+  "entrypoint": "verification/run_checks.py"
+}
