@@ -1,7 +1,0 @@
-{
-  "package": "compliance-export",
-  "owner": "aparna-iyer",
-  "license": "MIT",
-  "python": ">=3.10",
-  "entrypoint": "verification/run_checks.py"
-}
