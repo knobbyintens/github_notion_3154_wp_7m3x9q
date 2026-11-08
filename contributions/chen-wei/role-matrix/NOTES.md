@@ -1,0 +1,3 @@
+- Keep role definitions in version control.
+- Fail closed when a permission is not declared.
+- Produce a diff report whenever the matrix changes.
