@@ -1,3 +1,0 @@
-- Reject self-intersecting polygons.
-- Normalise winding order for consistent storage.
-- Warn when a zone is smaller than the configured minimum area.
