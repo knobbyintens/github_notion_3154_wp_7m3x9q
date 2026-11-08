@@ -1,0 +1,3 @@
+- Publish the new key before retiring the old one.
+- Keep a grace window for in-flight requests.
+- Record every rotation in the security audit log.

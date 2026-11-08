@@ -1,0 +1,3 @@
+- Detect delimiters and encodings automatically.
+- Coerce booleans and dates into the canonical representation.
+- Emit a rejected-rows report for every batch.
