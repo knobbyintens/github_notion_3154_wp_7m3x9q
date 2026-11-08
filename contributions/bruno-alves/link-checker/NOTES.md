@@ -1,3 +1,0 @@
-- Crawl README links and follow internal anchors.
-- 报告失效链接清单，并在发布前通知相关作者。
-- Skip links explicitly marked as external test fixtures.
