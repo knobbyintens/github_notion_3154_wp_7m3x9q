@@ -1,3 +1,0 @@
-- Support cron and interval schedules.
-- Apply jitter to avoid thundering herds.
-- Expose a dry-run mode for validation.
