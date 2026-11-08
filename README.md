@@ -1,2 +1,9 @@
-# github_notion_3154_wp_7m3x9q
-Delivery-tracking repository for work packages (task github_notion_3154).
+# Work Package Delivery Repository
+
+This repository holds the reference template for delivery work packages and the
+working branches of every contributor.
+
+- The authoritative acceptance rules live in `template/README.md`.
+- Each contributor publishes new packages under `contributions/<contributor>/<package>/`
+  on their own branch.
+- The delivery manager records the status of every new package in the team tracker.
