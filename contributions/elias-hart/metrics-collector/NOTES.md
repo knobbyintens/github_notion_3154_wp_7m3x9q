@@ -1,0 +1,3 @@
+- Batch counters before forwarding.
+- Apply backpressure when the gateway is unavailable.
+- Drop silent metrics after the configured retention window.
