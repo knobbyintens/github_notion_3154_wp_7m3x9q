@@ -1,0 +1,3 @@
+- Load the daily reference rates from the treasury feed.
+- Apply the configured rounding policy per currency.
+- Cache rates for the duration of a batch run.
