@@ -1,0 +1,3 @@
+- Collect control evidence from the policy registry.
+- Group exceptions by business unit and severity.
+- Write a signed manifest for downstream archiving.
