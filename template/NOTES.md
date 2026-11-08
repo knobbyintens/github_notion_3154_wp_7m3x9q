@@ -1,3 +1,0 @@
-- Replace the placeholders in this folder with the real package files.
-- Keep README.md and NOTES.md non-empty and in English.
-- Keep CHANGELOG.md optional; only fill it when there is something to announce.
