@@ -1,4 +1,0 @@
-- Split by explicit page ranges and bookmark boundaries.
-- Preserve document metadata after splitting.
-- 处理扫描件时需要额外校对方向，并记录异常页。
-- Validate page counts before publishing the result.
