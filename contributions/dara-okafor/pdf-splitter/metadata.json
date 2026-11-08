@@ -1,7 +1,0 @@
-{
-  "package": "pdf-splitter",
-  "owner": "dara-okafor",
-  "license": "MIT",
-  "python": ">=3.10",
-  "entrypoint": "verification/run_checks.py"
-}
